@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 8f8460d377c692b27764daf20dfc3510706f98ca
+  commit: a65e20b767bb804bf3cccae65331572bb270b448
   directory: src/cost-explorer-mcp-server
 config:
   description: Configure AWS credentials for Cost Explorer access
